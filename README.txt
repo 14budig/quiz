@@ -1,0 +1,1 @@
+This is my quiz game for the week 6 assignment from javascriptissexy.com's "How to learn JavaScript properly" course.
